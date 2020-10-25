@@ -1,9 +1,9 @@
-public class ToStringOverrite {
+public class ToStringOverride {
     int nr;
     String name;
     String city;
 
-    public ToStringOverrite(int nr, String name, String city) {
+    public ToStringOverride(int nr, String name, String city) {
         this.nr = nr;
         this.name = name;
         this.city = city;
